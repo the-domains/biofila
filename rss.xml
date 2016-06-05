@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[bioFila by twoBEars]]></title>
         <description><![CDATA[bioFila by twoBEars]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://biofila.eu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:56:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 17:57:21 GMT</lastBuildDate>
+        <atom:link href="http://biofila.eu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56cc672-4932-490a-b761-ae76ed9d9ecc.jpg">]]></description>
+            <link>http://biofila.eu/biofila-silk/index.html</link>
+            <guid isPermaLink="false">3cc50623-6b19-4314-91fe-610948110879</guid>
+            <pubDate>Sun, 05 Jun 2016 17:57:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d79f2c2-0a7e-4f90-b848-cff1e108825d.jpg">]]></description>
-            <link>undefinedbiofila-platec/index.html</link>
+            <link>http://biofila.eu/biofila-platec/index.html</link>
             <guid isPermaLink="false">be6b9bf9-3a03-4144-bcb6-e401889cca3f</guid>
             <pubDate>Sun, 05 Jun 2016 17:56:07 GMT</pubDate>
         </item>
