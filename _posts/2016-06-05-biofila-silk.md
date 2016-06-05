@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: bioFila silk
-datePublished: '2016-06-05T17:57:00.042Z'
-dateModified: '2016-06-05T17:56:45.550Z'
+datePublished: '2016-06-05T22:38:24.211Z'
+dateModified: '2016-06-05T22:38:23.479Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-05-biofila-silk.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-05-biofila-silk.md
+starred: true
 url: biofila-silk/index.html
 _type: Article
 
